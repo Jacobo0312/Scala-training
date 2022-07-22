@@ -1,0 +1,1088 @@
+2022.07.01 10:34:45 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\juanj\Desktop\fireworks\.metals\lsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.01 10:34:46 INFO  logging to file C:\Users\juanj\Desktop\fireworks\.metals\metals.log
+2022.07.01 10:34:46 INFO  Started: Metals version 0.11.6 in workspace 'C:\Users\juanj\Desktop\fireworks' for client Visual Studio Code 1.68.1.
+2022.07.01 10:34:46 INFO  time: initialize in 0.92s
+2022.07.01 10:34:47 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.01 10:34:47 WARN  Build server is not auto-connectable.
+2022.07.01 10:34:48 WARN  no build target for: C:\Users\juanj\Desktop\fireworks\assignment.sbt
+2022.07.01 10:34:53 INFO  no build target found for C:\Users\juanj\Desktop\fireworks\assignment.sbt. Using presentation compiler with project's scala-library version: 3.1.2
+2022.07.01 10:34:54 INFO  time: code lens generation in 4.15s
+2022.07.01 10:34:54 INFO  time: code lens generation in 4.4s
+2022.07.01 10:34:57 INFO  running 'C:\Program Files\Eclipse Foundation\jdk-17.0.0.35-hotspot\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\juanj\AppData\Local\Temp\metals3763024637856871878\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.07.01 10:34:58 ERROR [info] [launcher] getting org.scala-sbt sbt 1.6.1  (this may take some time)...
+2022.07.01 10:35:22 WARN  no build target for: C:\Users\juanj\Desktop\fireworks\src\main\scala\fireworks\Fireworks.scala
+2022.07.01 10:35:45 WARN  no build target for: C:\Users\juanj\Desktop\fireworks\src\main\scala\fireworks\FireworksRunner.scala
+2022.07.01 10:35:56 WARN  no build target for: C:\Users\juanj\Desktop\fireworks\assignment.sbt
+2022.07.01 10:36:02 WARN  no build target for: C:\Users\juanj\Desktop\fireworks\src\main\scala\fireworks\Fireworks.scala
+2022.07.01 10:36:35 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/sbt/1.6.1/sbt-1.6.1.jar ...
+2022.07.01 10:36:35 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/main_2.12/1.6.1/main_2.12-1.6.1.jar ...
+2022.07.01 10:36:35 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.6.0/io_2.12-1.6.0.jar ...
+2022.07.01 10:36:35 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/logic_2.12/1.6.1/logic_2.12-1.6.1.jar ...
+2022.07.01 10:36:35 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/main-settings_2.12/1.6.1/main-settings_2.12-1.6.1.jar ...
+2022.07.01 10:36:35 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/run_2.12/1.6.1/run_2.12-1.6.1.jar ...
+2022.07.01 10:36:35 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/actions_2.12/1.6.1/actions_2.12-1.6.1.jar ...
+2022.07.01 10:36:35 ERROR :: loading settings :: url = jar:file:/C:/Users/juanj/AppData/Local/Temp/metals3763024637856871878/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml
+2022.07.01 10:36:35 ERROR :: loading settings :: url = jar:file:/C:/Users/juanj/AppData/Local/Temp/metals3763024637856871878/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml
+2022.07.01 10:36:35 ERROR :: loading settings :: url = jar:file:/C:/Users/juanj/AppData/Local/Temp/metals3763024637856871878/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml
+2022.07.01 10:36:35 ERROR :: loading settings :: url = jar:file:/C:/Users/juanj/AppData/Local/Temp/metals3763024637856871878/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml
+2022.07.01 10:36:35 ERROR :: loading settings :: url = jar:file:/C:/Users/juanj/AppData/Local/Temp/metals3763024637856871878/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml
+2022.07.01 10:36:35 ERROR :: loading settings :: url = jar:file:/C:/Users/juanj/AppData/Local/Temp/metals3763024637856871878/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml
+2022.07.01 10:36:35 ERROR :: loading settings :: url = jar:file:/C:/Users/juanj/AppData/Local/Temp/metals3763024637856871878/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml
+2022.07.01 10:36:35 ERROR :: loading settings :: url = jar:file:/C:/Users/juanj/AppData/Local/Temp/metals3763024637856871878/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml
+2022.07.01 10:36:35 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/command_2.12/1.6.1/command_2.12-1.6.1.jar ...
+2022.07.01 10:36:35 ERROR 	[SUCCESSFUL ] org.scala-sbt#logic_2.12;1.6.1!logic_2.12.jar (712ms)
+2022.07.01 10:36:35 ERROR 	[SUCCESSFUL ] org.scala-sbt#sbt;1.6.1!sbt.jar (719ms)
+2022.07.01 10:36:35 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/scripted-plugin_2.12/1.6.1/scripted-plugin_2.12-1.6.1.jar ...
+2022.07.01 10:36:35 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/collections_2.12/1.6.1/collections_2.12-1.6.1.jar ...
+2022.07.01 10:36:35 ERROR 	[SUCCESSFUL ] org.scala-sbt#run_2.12;1.6.1!run_2.12.jar (722ms)
+2022.07.01 10:36:35 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-lm-integration_2.12/1.6.1/zinc-lm-integration_2.12-1.6.1.jar ...
+2022.07.01 10:36:35 ERROR 	[SUCCESSFUL ] org.scala-sbt#actions_2.12;1.6.1!actions_2.12.jar (811ms)
+2022.07.01 10:36:35 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.6.1/util-logging_2.12-1.6.1.jar ...
+2022.07.01 10:36:35 ERROR 	[SUCCESSFUL ] org.scala-sbt#command_2.12;1.6.1!command_2.12.jar (898ms)
+2022.07.01 10:36:35 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.3.3/launcher-interface-1.3.3.jar ...
+2022.07.01 10:36:36 ERROR 	[SUCCESSFUL ] org.scala-sbt#scripted-plugin_2.12;1.6.1!scripted-plugin_2.12.jar (371ms)
+2022.07.01 10:36:36 ERROR downloading https://repo1.maven.org/maven2/com/github/ben-manes/caffeine/caffeine/2.8.5/caffeine-2.8.5.jar ...
+2022.07.01 10:36:36 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-lm-integration_2.12;1.6.1!zinc-lm-integration_2.12.jar (439ms)
+2022.07.01 10:36:36 ERROR downloading https://repo1.maven.org/maven2/io/get-coursier/lm-coursier-shaded_2.12/2.0.10/lm-coursier-shaded_2.12-2.0.10.jar ...
+2022.07.01 10:36:36 ERROR 	[SUCCESSFUL ] org.scala-sbt#main_2.12;1.6.1!main_2.12.jar (1188ms)
+2022.07.01 10:36:36 ERROR downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1.jar ...
+2022.07.01 10:36:36 ERROR 	[SUCCESSFUL ] org.scala-sbt#launcher-interface;1.3.3!launcher-interface.jar (352ms)
+2022.07.01 10:36:36 ERROR downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.17.1/log4j-core-2.17.1.jar ...
+2022.07.01 10:36:36 ERROR 	[SUCCESSFUL ] org.scala-sbt#main-settings_2.12;1.6.1!main-settings_2.12.jar (1272ms)
+2022.07.01 10:36:36 ERROR downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-slf4j-impl/2.17.1/log4j-slf4j-impl-2.17.1.jar ...
+2022.07.01 10:36:36 ERROR 	[SUCCESSFUL ] org.scala-sbt#collections_2.12;1.6.1!collections_2.12.jar (590ms)
+2022.07.01 10:36:36 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.6.0/librarymanagement-core_2.12-1.6.0.jar ...
+2022.07.01 10:36:36 ERROR 	[SUCCESSFUL ] org.scala-sbt#util-logging_2.12;1.6.1!util-logging_2.12.jar (653ms)
+2022.07.01 10:36:36 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.6.0/librarymanagement-ivy_2.12-1.6.0.jar ...
+2022.07.01 10:36:36 ERROR 	[SUCCESSFUL ] org.apache.logging.log4j#log4j-api;2.17.1!log4j-api.jar (496ms)
+2022.07.01 10:36:36 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.6.0/compiler-interface-1.6.0.jar ...
+2022.07.01 10:36:36 ERROR 	[SUCCESSFUL ] org.apache.logging.log4j#log4j-slf4j-impl;2.17.1!log4j-slf4j-impl.jar (425ms)
+2022.07.01 10:36:36 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile_2.12/1.6.0/zinc-compile_2.12-1.6.0.jar ...
+2022.07.01 10:36:36 ERROR 	[SUCCESSFUL ] com.github.ben-manes.caffeine#caffeine;2.8.5!caffeine.jar (696ms)
+2022.07.01 10:36:36 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.6.1/util-relation_2.12-1.6.1.jar ...
+2022.07.01 10:36:36 ERROR 	[SUCCESSFUL ] org.scala-sbt#librarymanagement-core_2.12;1.6.0!librarymanagement-core_2.12.jar (566ms)
+2022.07.01 10:36:36 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.6.1/util-position_2.12-1.6.1.jar ...
+2022.07.01 10:36:36 ERROR 	[SUCCESSFUL ] org.apache.logging.log4j#log4j-core;2.17.1!log4j-core.jar (602ms)
+2022.07.01 10:36:36 ERROR downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_2.12/0.9.1/sjson-new-scalajson_2.12-0.9.1.jar ...
+2022.07.01 10:36:36 ERROR 	[SUCCESSFUL ] org.scala-sbt#librarymanagement-ivy_2.12;1.6.0!librarymanagement-ivy_2.12.jar (506ms)
+2022.07.01 10:36:36 ERROR downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.9.1/sjson-new-core_2.12-0.9.1.jar ...
+2022.07.01 10:36:36 ERROR 	[SUCCESSFUL ] org.scala-sbt#compiler-interface;1.6.0!compiler-interface.jar (340ms)
+2022.07.01 10:36:36 ERROR downloading https://repo1.maven.org/maven2/com/eed3si9n/shaded-jawn-parser_2.12/0.9.1/shaded-jawn-parser_2.12-0.9.1.jar ...
+2022.07.01 10:36:36 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-compile_2.12;1.6.0!zinc-compile_2.12.jar (331ms)
+2022.07.01 10:36:36 ERROR downloading https://repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_2.12/1.0.0-M4/shaded-scalajson_2.12-1.0.0-M4.jar ...
+2022.07.01 10:36:37 ERROR 	[SUCCESSFUL ] org.scala-sbt#util-relation_2.12;1.6.1!util-relation_2.12.jar (331ms)
+2022.07.01 10:36:37 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/completion_2.12/1.6.1/completion_2.12-1.6.1.jar ...
+2022.07.01 10:36:37 ERROR 	[SUCCESSFUL ] com.eed3si9n#sjson-new-scalajson_2.12;0.9.1!sjson-new-scalajson_2.12.jar (323ms)
+2022.07.01 10:36:37 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/task-system_2.12/1.6.1/task-system_2.12-1.6.1.jar ...
+2022.07.01 10:36:37 ERROR 	[SUCCESSFUL ] org.scala-sbt#util-position_2.12;1.6.1!util-position_2.12.jar (331ms)
+2022.07.01 10:36:37 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/tasks_2.12/1.6.1/tasks_2.12-1.6.1.jar ...
+2022.07.01 10:36:37 ERROR 	[SUCCESSFUL ] com.eed3si9n#shaded-scalajson_2.12;1.0.0-M4!shaded-scalajson_2.12.jar (349ms)
+2022.07.01 10:36:37 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/testing_2.12/1.6.1/testing_2.12-1.6.1.jar ...
+2022.07.01 10:36:37 ERROR 	[SUCCESSFUL ] com.eed3si9n#shaded-jawn-parser_2.12;0.9.1!shaded-jawn-parser_2.12.jar (364ms)
+2022.07.01 10:36:37 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/util-tracking_2.12/1.6.1/util-tracking_2.12-1.6.1.jar ...
+2022.07.01 10:36:37 ERROR 	[SUCCESSFUL ] com.eed3si9n#sjson-new-core_2.12;0.9.1!sjson-new-core_2.12.jar (443ms)
+2022.07.01 10:36:37 ERROR downloading https://repo1.maven.org/maven2/org/jline/jline-terminal/3.19.0/jline-terminal-3.19.0.jar ...
+2022.07.01 10:36:37 ERROR 	[SUCCESSFUL ] org.scala-sbt#tasks_2.12;1.6.1!tasks_2.12.jar (364ms)
+2022.07.01 10:36:37 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.6.0/zinc-classpath_2.12-1.6.0.jar ...
+2022.07.01 10:36:37 ERROR 	[SUCCESSFUL ] org.scala-sbt#task-system_2.12;1.6.1!task-system_2.12.jar (381ms)
+2022.07.01 10:36:37 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_2.12/1.6.0/zinc-apiinfo_2.12-1.6.0.jar ...
+2022.07.01 10:36:37 ERROR 	[SUCCESSFUL ] org.scala-sbt#util-tracking_2.12;1.6.1!util-tracking_2.12.jar (359ms)
+2022.07.01 10:36:37 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.6.0/zinc_2.12-1.6.0.jar ...
+2022.07.01 10:36:37 ERROR 	[SUCCESSFUL ] org.scala-sbt#testing_2.12;1.6.1!testing_2.12.jar (363ms)
+2022.07.01 10:36:37 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.6.1/util-control_2.12-1.6.1.jar ...
+2022.07.01 10:36:37 ERROR 	[SUCCESSFUL ] org.jline#jline-terminal;3.19.0!jline-terminal.jar (356ms)
+2022.07.01 10:36:37 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/jline/jline/2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493/jline-2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493.jar ...
+Exception in thread "pool-3-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022.07.01 10:36:38 WARN  no build target for: C:\Users\juanj\Desktop\fireworks\src\main\scala\fireworks\Fireworks.scala
+2022.07.01 10:36:37 ERROR 	[SUCCESSFUL ] org.scala-sbt#completion_2.12;1.6.1!completion_2.12.jar (820ms)
+2022.07.01 10:36:37 ERROR downloading https://repo1.maven.org/maven2/org/jline/jline-reader/3.19.0/jline-reader-3.19.0.jar ...
+2022.07.01 10:36:37 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-apiinfo_2.12;1.6.0!zinc-apiinfo_2.12.jar (359ms)
+2022.07.01 10:36:37 ERROR downloading https://repo1.maven.org/maven2/org/jline/jline-builtins/3.19.0/jline-builtins-3.19.0.jar ...
+2022.07.01 10:36:37 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-classpath_2.12;1.6.0!zinc-classpath_2.12.jar (473ms)
+2022.07.01 10:36:37 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.6.1/util-interface-1.6.1.jar ...
+2022.07.01 10:36:37 ERROR 	[SUCCESSFUL ] org.scala-sbt#util-control_2.12;1.6.1!util-control_2.12.jar (352ms)
+2022.07.01 10:36:37 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/core-macros_2.12/1.6.1/core-macros_2.12-1.6.1.jar ...
+2022.07.01 10:36:37 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc_2.12;1.6.0!zinc_2.12.jar (364ms)
+2022.07.01 10:36:37 ERROR downloading https://repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.19.0/jline-terminal-jna-3.19.0.jar ...
+2022.07.01 10:36:39 ERROR 	[SUCCESSFUL ] org.jline#jline-builtins;3.19.0!jline-builtins.jar (370ms)
+2022.07.01 10:36:39 ERROR downloading https://repo1.maven.org/maven2/org/jline/jline-terminal-jansi/3.19.0/jline-terminal-jansi-3.19.0.jar ...
+2022.07.01 10:36:39 ERROR 	[SUCCESSFUL ] org.jline#jline-reader;3.19.0!jline-reader.jar (386ms)
+2022.07.01 10:36:39 ERROR downloading https://repo1.maven.org/maven2/com/lmax/disruptor/3.4.2/disruptor-3.4.2.jar ...
+2022.07.01 10:36:39 ERROR 	[SUCCESSFUL ] org.scala-sbt#util-interface;1.6.1!util-interface.jar (348ms)
+2022.07.01 10:36:39 ERROR downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.15/scala-compiler-2.12.15.jar ...
+2022.07.01 10:36:39 ERROR 	[SUCCESSFUL ] org.scala-sbt#core-macros_2.12;1.6.1!core-macros_2.12.jar (375ms)
+2022.07.01 10:36:39 ERROR 	[SUCCESSFUL ] org.scala-sbt.jline#jline;2.14.7-sbt-a1b0ffbb8f64bb820f4f84a0c07a0c0964507493!jline.jar (698ms)
+2022.07.01 10:36:39 ERROR 	[SUCCESSFUL ] org.jline#jline-terminal-jna;3.19.0!jline-terminal-jna.jar (364ms)
+2022.07.01 10:36:39 ERROR downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/2.1.0/jansi-2.1.0.jar ...
+2022.07.01 10:36:39 ERROR downloading https://repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.7/file-tree-views-2.1.7.jar ...
+2022.07.01 10:36:39 ERROR downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.8.0/jna-5.8.0.jar ...
+2022.07.01 10:36:39 ERROR 	[SUCCESSFUL ] org.scala-sbt#io_2.12;1.6.0!io_2.12.jar (3639ms)
+2022.07.01 10:36:39 ERROR downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.8.0/jna-platform-5.8.0.jar ...
+2022.07.01 10:36:39 ERROR 	[SUCCESSFUL ] org.jline#jline-terminal-jansi;3.19.0!jline-terminal-jansi.jar (351ms)
+2022.07.01 10:36:39 ERROR downloading https://repo1.maven.org/maven2/org/jline/jline-style/3.19.0/jline-style-3.19.0.jar ...
+2022.07.01 10:36:39 ERROR 	[SUCCESSFUL ] com.lmax#disruptor;3.4.2!disruptor.jar (344ms)
+2022.07.01 10:36:39 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.6.1/util-cache_2.12-1.6.1.jar ...
+2022.07.01 10:36:39 ERROR 	[SUCCESSFUL ] org.fusesource.jansi#jansi;2.1.0!jansi.jar (447ms)
+2022.07.01 10:36:39 ERROR downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.9.1/sjson-new-murmurhash_2.12-0.9.1.jar ...
+2022.07.01 10:36:39 ERROR 	[SUCCESSFUL ] com.swoval#file-tree-views;2.1.7!file-tree-views.jar (539ms)
+2022.07.01 10:36:39 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.6.1/test-agent-1.6.1.jar ...
+2022.07.01 10:36:39 ERROR 	[SUCCESSFUL ] org.jline#jline-style;3.19.0!jline-style.jar (415ms)
+2022.07.01 10:36:39 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar ...
+2022.07.01 10:36:39 ERROR 	[SUCCESSFUL ] org.scala-sbt#util-cache_2.12;1.6.1!util-cache_2.12.jar (439ms)
+2022.07.01 10:36:39 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.6.0/compiler-bridge_2.12-1.6.0.jar ...
+2022.07.01 10:36:39 ERROR 	[SUCCESSFUL ] net.java.dev.jna#jna-platform;5.8.0!jna-platform.jar (638ms)
+2022.07.01 10:36:39 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_2.12/1.6.0/zinc-classfile_2.12-1.6.0.jar ...
+2022.07.01 10:36:40 ERROR 	[SUCCESSFUL ] org.scala-sbt#test-agent;1.6.1!test-agent.jar (377ms)
+2022.07.01 10:36:40 ERROR downloading https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.54/jsch-0.1.54.jar ...
+2022.07.01 10:36:40 ERROR 	[SUCCESSFUL ] org.scala-sbt#test-interface;1.0!test-interface.jar (455ms)
+2022.07.01 10:36:40 ERROR downloading https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-okhttp_2.12/0.5.0/gigahorse-okhttp_2.12-0.5.0.jar ...
+2022.07.01 10:36:40 ERROR 	[SUCCESSFUL ] org.scala-sbt#compiler-bridge_2.12;1.6.0!compiler-bridge_2.12.jar (505ms)
+2022.07.01 10:36:40 ERROR downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp-urlconnection/3.7.0/okhttp-urlconnection-3.7.0.jar ...
+2022.07.01 10:36:40 ERROR 	[SUCCESSFUL ] com.eed3si9n#sjson-new-murmurhash_2.12;0.9.1!sjson-new-murmurhash_2.12.jar (770ms)
+2022.07.01 10:36:40 ERROR downloading https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_2.12/0.5.0/gigahorse-core_2.12-0.5.0.jar ...
+2022.07.01 10:36:40 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-classfile_2.12;1.6.0!zinc-classfile_2.12.jar (460ms)
+2022.07.01 10:36:40 ERROR downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/3.14.2/okhttp-3.14.2.jar ...
+2022.07.01 10:36:40 ERROR 	[SUCCESSFUL ] com.jcraft#jsch;0.1.54!jsch.jar (487ms)
+2022.07.01 10:36:40 ERROR downloading https://repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.12/0.4.0/ssl-config-core_2.12-0.4.0.jar ...
+2022.07.01 10:36:40 ERROR 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.12.15!scala-compiler.jar (1570ms)
+2022.07.01 10:36:40 ERROR downloading https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.jar ...
+2022.07.01 10:36:40 ERROR 	[SUCCESSFUL ] com.eed3si9n#gigahorse-okhttp_2.12;0.5.0!gigahorse-okhttp_2.12.jar (443ms)
+2022.07.01 10:36:40 ERROR downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar ...
+2022.07.01 10:36:40 ERROR 	[SUCCESSFUL ] com.squareup.okhttp3#okhttp-urlconnection;3.7.0!okhttp-urlconnection.jar (356ms)
+2022.07.01 10:36:40 ERROR downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.2/scala-parser-combinators_2.12-1.1.2.jar ...
+2022.07.01 10:36:40 ERROR 	[SUCCESSFUL ] com.eed3si9n#gigahorse-core_2.12;0.5.0!gigahorse-core_2.12.jar (397ms)
+2022.07.01 10:36:40 ERROR downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.3/config-1.3.3.jar ...
+2022.07.01 10:36:40 ERROR 	[SUCCESSFUL ] com.squareup.okhttp3#okhttp;3.14.2!okhttp.jar (443ms)
+2022.07.01 10:36:40 ERROR downloading https://repo1.maven.org/maven2/com/squareup/okio/okio/1.17.2/okio-1.17.2.jar ...
+2022.07.01 10:36:40 ERROR 	[SUCCESSFUL ] org.reactivestreams#reactive-streams;1.0.2!reactive-streams.jar (333ms)
+2022.07.01 10:36:40 ERROR 	[SUCCESSFUL ] com.typesafe#ssl-config-core_2.12;0.4.0!ssl-config-core_2.12.jar(bundle) (415ms)
+2022.07.01 10:36:40 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-core_2.12/1.6.0/zinc-core_2.12-1.6.0.jar ...
+2022.07.01 10:36:40 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist_2.12/1.6.0/zinc-persist_2.12-1.6.0.jar ...
+2022.07.01 10:36:40 ERROR 	[SUCCESSFUL ] org.slf4j#slf4j-api;1.7.26!slf4j-api.jar (364ms)
+2022.07.01 10:36:40 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_2.12/1.6.0/zinc-compile-core_2.12-1.6.0.jar ...
+2022.07.01 10:36:40 ERROR 	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.12;1.1.2!scala-parser-combinators_2.12.jar(bundle) (412ms)
+2022.07.01 10:36:40 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.6.0/zinc-persist-core-assembly-1.6.0.jar ...
+2022.07.01 10:36:41 ERROR 	[SUCCESSFUL ] com.typesafe#config;1.3.3!config.jar(bundle) (382ms)
+2022.07.01 10:36:41 ERROR downloading https://repo1.maven.org/maven2/net/openhft/zero-allocation-hashing/0.10.1/zero-allocation-hashing-0.10.1.jar ...
+2022.07.01 10:36:41 ERROR 	[SUCCESSFUL ] com.squareup.okio#okio;1.17.2!okio.jar (370ms)
+2022.07.01 10:36:41 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/sbinary_2.12/0.5.1/sbinary_2.12-0.5.1.jar ...
+2022.07.01 10:36:41 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-persist_2.12;1.6.0!zinc-persist_2.12.jar (392ms)
+2022.07.01 10:36:41 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/protocol_2.12/1.6.1/protocol_2.12-1.6.1.jar ...
+2022.07.01 10:36:41 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-core_2.12;1.6.0!zinc-core_2.12.jar (408ms)
+2022.07.01 10:36:41 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/ipcsocket/ipcsocket/1.3.1/ipcsocket-1.3.1.jar ...
+2022.07.01 10:36:41 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-compile-core_2.12;1.6.0!zinc-compile-core_2.12.jar (382ms)
+2022.07.01 10:36:41 ERROR downloading https://repo1.maven.org/maven2/org/checkerframework/checker-qual/3.4.1/checker-qual-3.4.1.jar ...
+2022.07.01 10:36:41 ERROR 	[SUCCESSFUL ] org.scala-sbt#sbinary_2.12;0.5.1!sbinary_2.12.jar (372ms)
+2022.07.01 10:36:41 ERROR downloading https://repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.4.0/error_prone_annotations-2.4.0.jar ...
+2022.07.01 10:36:41 ERROR 	[SUCCESSFUL ] net.openhft#zero-allocation-hashing;0.10.1!zero-allocation-hashing.jar(bundle) (553ms)
+2022.07.01 10:36:41 ERROR downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.6.0/scala-collection-compat_2.12-2.6.0.jar ...
+2022.07.01 10:36:41 ERROR 	[SUCCESSFUL ] org.checkerframework#checker-qual;3.4.1!checker-qual.jar (454ms)
+2022.07.01 10:36:41 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-fbc4f586aeeb1591710b14eb4f41b94880dcd745/ivy-2.3.0-sbt-fbc4f586aeeb1591710b14eb4f41b94880dcd745.jar ...
+2022.07.01 10:36:41 ERROR 	[SUCCESSFUL ] org.scala-sbt.ipcsocket#ipcsocket;1.3.1!ipcsocket.jar (607ms)
+2022.07.01 10:36:41 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-persist-core-assembly;1.6.0!zinc-persist-core-assembly.jar (935ms)
+2022.07.01 10:36:41 ERROR 	[SUCCESSFUL ] org.scala-sbt#protocol_2.12;1.6.1!protocol_2.12.jar (712ms)
+2022.07.01 10:36:42 ERROR 	[SUCCESSFUL ] com.google.errorprone#error_prone_annotations;2.4.0!error_prone_annotations.jar (743ms)
+2022.07.01 10:36:42 ERROR 	[SUCCESSFUL ] org.scala-lang.modules#scala-collection-compat_2.12;2.6.0!scala-collection-compat_2.12.jar (846ms)
+2022.07.01 10:36:42 ERROR 	[SUCCESSFUL ] org.scala-sbt.ivy#ivy;2.3.0-sbt-fbc4f586aeeb1591710b14eb4f41b94880dcd745!ivy.jar (692ms)
+2022.07.01 10:36:45 ERROR 	[SUCCESSFUL ] net.java.dev.jna#jna;5.8.0!jna.jar (5876ms)
+2022.07.01 10:37:00 ERROR 	[SUCCESSFUL ] io.get-coursier#lm-coursier-shaded_2.12;2.0.10!lm-coursier-shaded_2.12.jar (23454ms)
+2022.07.01 10:37:00 ERROR :: retrieving :: org.scala-sbt#boot-app
+2022.07.01 10:37:00 ERROR 	confs: [default]
+2022.07.01 10:37:00 ERROR 	83 artifacts copied, 0 already retrieved
+2022.07.01 10:37:01 INFO  [info] welcome to sbt 1.6.1 (Eclipse Adoptium Java 17)
+2022.07.01 10:37:03 INFO  [info] loading settings for project fireworks-build-build-build from metals.sbt ...
+2022.07.01 10:37:03 INFO  [info] loading project definition from C:\Users\juanj\Desktop\fireworks\project\project\project
+2022.07.01 10:37:06 INFO  [info] loading settings for project fireworks-build-build from metals.sbt ...
+2022.07.01 10:37:06 INFO  [info] loading project definition from C:\Users\juanj\Desktop\fireworks\project\project
+2022.07.01 10:37:14 INFO  [success] Generated .bloop\fireworks-build-build.json
+2022.07.01 10:37:14 INFO  [success] Total time: 8 s, completed 1/07/2022, 10:37:14 a.Â m.
+2022.07.01 10:37:16 INFO  [info] loading settings for project fireworks-build from buildSettings.sbt,metals.sbt,plugins.sbt ...
+2022.07.01 10:37:16 INFO  [info] loading project definition from C:\Users\juanj\Desktop\fireworks\project
+2022.07.01 10:37:23 INFO  [success] Generated .bloop\fireworks-build.json
+2022.07.01 10:37:23 INFO  [info] compiling 3 Scala sources to C:\Users\juanj\Desktop\fireworks\project\target\scala-2.12\sbt-1.0\classes ...
+2022.07.01 10:37:29 INFO  [info] done compiling
+2022.07.01 10:37:29 INFO  [success] Total time: 14 s, completed 1/07/2022, 10:37:30 a.Â m.
+2022.07.01 10:37:31 INFO  [info] loading settings for project fireworks from assignment.sbt,build.sbt ...
+2022.07.01 10:37:31 INFO  [info] set current project to effective-scala-fireworks (in build file:/C:/Users/juanj/Desktop/fireworks/)
+2022.07.01 10:38:53 INFO  [success] Generated .bloop\fireworks.json
+2022.07.01 10:38:53 INFO  [success] Generated .bloop\fireworks-test.json
+2022.07.01 10:38:53 INFO  [success] Total time: 81 s (01:21), completed 1/07/2022, 10:38:53 a.Â m.
+2022.07.01 10:38:53 INFO  time: ran 'sbt bloopInstall' in 3m55s
+2022.07.01 10:38:53 INFO  Attempting to connect to the build server...
+2022.07.01 10:38:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\fireworks\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.01 10:38:57 INFO  Attempting to connect to the build server...
+2022.07.01 10:38:57 INFO  Attempting to connect to the build server...
+2022.07.01 10:38:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\fireworks\project\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.01 10:38:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\fireworks\project\project\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.01 10:38:57 INFO  time: Connected to build server in 3.88s
+2022.07.01 10:38:57 INFO  Connected to Build server: Bloop v1.5.0-18-003e6c7b
+2022.07.01 10:38:57 INFO  time: Imported build in 0.17s
+2022.07.01 10:39:05 INFO  time: indexed workspace in 7.54s
+2022.07.01 15:33:11 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\juanj\Desktop\fireworks\.metals\lsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.01 15:33:11 INFO  logging to file C:\Users\juanj\Desktop\fireworks\.metals\metals.log
+2022.07.01 15:33:11 INFO  Started: Metals version 0.11.6 in workspace 'C:\Users\juanj\Desktop\fireworks' for client Visual Studio Code 1.68.1.
+2022.07.01 15:33:12 INFO  time: initialize in 0.8s
+2022.07.01 15:33:17 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.01 15:33:18 INFO  Attempting to connect to the build server...
+2022.07.01 15:33:18 INFO  skipping build import with status 'Installed'
+2022.07.01 15:33:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\fireworks\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.01 15:33:23 INFO  Attempting to connect to the build server...
+2022.07.01 15:33:23 INFO  Attempting to connect to the build server...
+2022.07.01 15:33:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\fireworks\project\project\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.01 15:33:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\fireworks\project\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.01 15:33:24 INFO  time: Connected to build server in 6s
+2022.07.01 15:33:24 INFO  Connected to Build server: Bloop v1.5.0-18-003e6c7b
+2022.07.01 15:33:25 INFO  no build target found for C:\Users\juanj\Desktop\fireworks\src\main\scala\fireworks\Fireworks.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.07.01 15:33:25 INFO  time: code lens generation in 3.55s
+2022.07.01 15:33:25 INFO  time: Imported build in 0.24s
+2022.07.01 15:33:26 INFO  no build target found for C:\Users\juanj\Desktop\fireworks\src\main\scala\fireworks\Fireworks.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.07.01 15:33:28 INFO  time: code lens generation in 6.73s
+2022.07.01 15:33:32 INFO  time: indexed workspace in 6.84s
+2022.07.01 15:33:32 INFO  compiling fireworks (2 scala sources)
+2022.07.01 15:33:43 INFO  compiling fireworks-test (2 scala sources)
+2022.07.01 15:33:43 INFO  time: compiled fireworks in 10s
+2022.07.01 15:33:46 INFO  time: compiled fireworks-test in 2.96s
+2022.07.01 15:38:44 INFO  shutting down Metals
+2022.07.01 15:38:44 INFO  Shut down connection with build server.
+2022.07.01 15:38:44 INFO  Shut down connection with build server.
+2022.07.01 15:38:44 INFO  Shut down connection with build server.
+2022.07.07 15:30:08 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\juanj\Desktop\fireworks\.metals\lsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.07 15:30:09 INFO  logging to file C:\Users\juanj\Desktop\fireworks\.metals\metals.log
+2022.07.07 15:30:09 INFO  Started: Metals version 0.11.6 in workspace 'C:\Users\juanj\Desktop\fireworks' for client Visual Studio Code 1.68.1.
+2022.07.07 15:30:10 INFO  time: initialize in 0.78s
+2022.07.07 15:30:10 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.07 15:30:10 INFO  Attempting to connect to the build server...
+2022.07.07 15:30:10 INFO  skipping build import with status 'Installed'
+2022.07.07 15:30:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\fireworks\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.07 15:30:10 INFO  Attempting to connect to the build server...
+2022.07.07 15:30:10 INFO  Attempting to connect to the build server...
+2022.07.07 15:30:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\fireworks\project\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.07 15:30:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\fireworks\project\project\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.07 15:30:11 INFO  time: Connected to build server in 0.84s
+2022.07.07 15:30:11 INFO  Connected to Build server: Bloop v1.5.0-18-003e6c7b
+2022.07.07 15:30:11 INFO  time: Imported build in 0.24s
+jul. 07, 2022 3:30:14 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3
+2022.07.07 15:30:17 INFO  time: code lens generation in 3.29s
+2022.07.07 15:30:18 INFO  time: indexed workspace in 6.57s
+2022.07.07 15:30:19 INFO  compiling fireworks-build (3 scala sources)
+2022.07.07 15:30:27 INFO  shutting down Metals
+2022.07.07 15:30:27 INFO  Shut down connection with build server.
+2022.07.07 15:30:27 INFO  Shut down connection with build server.
+2022.07.07 15:30:27 INFO  Shut down connection with build server.
+2022.07.07 15:30:28 ERROR Unexpected error initializing server
+scala.meta.internal.metals.MetalsBspException: BSP connection failed in the attempt to get: CompileResult.  Boxed Exception
+	at scala.meta.internal.metals.BuildServerConnection$$anonfun$1.$anonfun$applyOrElse$4(BuildServerConnection.scala:300)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.BuildServerConnection$$anonfun$1.applyOrElse(BuildServerConnection.scala:298)
+	at scala.meta.internal.metals.BuildServerConnection$$anonfun$1.applyOrElse(BuildServerConnection.scala:286)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:490)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2022.07.08 09:58:34 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\juanj\Desktop\fireworks\.metals\lsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.08 09:58:35 INFO  logging to file C:\Users\juanj\Desktop\fireworks\.metals\metals.log
+2022.07.08 09:58:35 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\juanj\Desktop\fireworks' for client Visual Studio Code 1.69.0.
+2022.07.08 09:58:36 INFO  time: initialize in 0.88s
+2022.07.08 09:58:36 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.08 09:58:37 INFO  Attempting to connect to the build server...
+2022.07.08 09:58:37 INFO  Bloop uses C:\Program Files\Eclipse Foundation\jdk-17.0.0.35-hotspot defined at C:\Users\juanj\.bloop\bloop.json
+2022.07.08 09:58:38 INFO  skipping build import with status 'Installed'
+2022.07.08 09:58:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\fireworks\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.08 09:58:38 INFO  Attempting to connect to the build server...
+2022.07.08 09:58:38 INFO  Bloop uses C:\Program Files\Eclipse Foundation\jdk-17.0.0.35-hotspot defined at C:\Users\juanj\.bloop\bloop.json
+2022.07.08 09:58:38 INFO  Attempting to connect to the build server...
+2022.07.08 09:58:38 INFO  Bloop uses C:\Program Files\Eclipse Foundation\jdk-17.0.0.35-hotspot defined at C:\Users\juanj\.bloop\bloop.json
+2022.07.08 09:58:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\fireworks\project\project\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.08 09:58:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\fireworks\project\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+jul. 08, 2022 9:58:40 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+jul. 08, 2022 9:58:40 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1
+2022.07.08 09:58:42 INFO  time: Connected to build server in 4.77s
+2022.07.08 09:58:42 INFO  Connected to Build server: Bloop v1.5.0-18-003e6c7b
+2022.07.08 09:58:45 INFO  no build target found for C:\Users\juanj\Desktop\fireworks\src\main\scala\fireworks\Fireworks.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.08 09:58:45 INFO  time: code lens generation in 5.35s
+2022.07.08 09:58:45 INFO  time: Imported build in 0.15s
+2022.07.08 09:58:52 INFO  time: indexed workspace in 6.83s
+2022.07.08 09:59:33 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\fireworks\.metals\dap-server.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2022.07.08 09:59:33 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\fireworks\.metals\dap-client.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2022.07.08 09:59:33 INFO  Starting debug proxy for [fireworks.FireworksSuite()]
+2022.07.08 09:59:37 INFO  Trying to attach to remote debuggee VM 127.0.0.1:51096 .
+2022.07.08 09:59:37 INFO  Attaching to debuggee VM succeeded.
+2022.07.08 09:59:38 INFO  Canceling debug proxy for [fireworks.FireworksSuite()]
+2022.07.08 09:59:37 INFO  Closing debug server tcp://0.0.0.0:51092
+jul. 08, 2022 10:02:29 A. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: assertion failed
+java.lang.AssertionError: assertion failed
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:11)
+	at dotty.tools.dotc.util.Spans$Span$.start$extension(Spans.scala:44)
+	at dotty.tools.dotc.parsing.Parsers$Parser.matchClause(Parsers.scala:2114)
+	at dotty.tools.dotc.parsing.Parsers$Parser.recur$4(Parsers.scala:955)
+	at dotty.tools.dotc.parsing.Parsers$Parser.infixOps(Parsers.scala:964)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExprRest(Parsers.scala:2209)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExpr(Parsers.scala:2199)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr1(Parsers.scala:2044)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr(Parsers.scala:1937)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$init$$$anonfun$5(Parsers.scala:1903)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subPart(Parsers.scala:600)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subExpr(Parsers.scala:1905)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defDefOrDcl(Parsers.scala:3358)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3249)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq$$anonfun$1(Parsers.scala:3877)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq(Parsers.scala:3885)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$anonfun$33(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.enclosed(Parsers.scala:533)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inBracesOrIndented(Parsers.scala:544)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inDefScopeBraces(Parsers.scala:550)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBody(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBodyOpt(Parsers.scala:3765)
+	at dotty.tools.dotc.parsing.Parsers$Parser.template(Parsers.scala:3742)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateOpt(Parsers.scala:3754)
+	at dotty.tools.dotc.parsing.Parsers$Parser.objectDef(Parsers.scala:3504)
+	at dotty.tools.dotc.parsing.Parsers$Parser.tmplDef(Parsers.scala:3463)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3255)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topStatSeq(Parsers.scala:3829)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3996)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3990)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit$$anonfun$1(Parsers.scala:4001)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit(Parsers.scala:4006)
+	at dotty.tools.dotc.parsing.Parsers$Parser.parse(Parsers.scala:177)
+	at dotty.tools.dotc.parsing.Parser.parse$$anonfun$1(ParserPhase.scala:34)
+	at dotty.tools.dotc.core.Phases$Phase.monitor(Phases.scala:411)
+	at dotty.tools.dotc.parsing.Parser.parse(ParserPhase.scala:41)
+	at dotty.tools.dotc.parsing.Parser.runOn$$anonfun$1(ParserPhase.scala:50)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.parsing.Parser.runOn(ParserPhase.scala:50)
+	at dotty.tools.dotc.Run.runPhases$4$$anonfun$4(Run.scala:261)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.ArrayOps$.foreach$extension(ArrayOps.scala:1328)
+	at dotty.tools.dotc.Run.runPhases$5(Run.scala:272)
+	at dotty.tools.dotc.Run.compileUnits$$anonfun$1(Run.scala:280)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at dotty.tools.dotc.util.Stats$.maybeMonitored(Stats.scala:68)
+	at dotty.tools.dotc.Run.compileUnits(Run.scala:289)
+	at dotty.tools.dotc.Run.compileSources(Run.scala:222)
+	at dotty.tools.dotc.interactive.InteractiveDriver.run(InteractiveDriver.scala:163)
+	at scala.meta.internal.pc.completions.CompletionsProvider.completions(CompletionsProvider.scala:40)
+
+jul. 08, 2022 10:02:48 A. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: assertion failed
+java.lang.AssertionError: assertion failed
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:11)
+	at dotty.tools.dotc.util.Spans$Span$.start$extension(Spans.scala:44)
+	at dotty.tools.dotc.parsing.Parsers$Parser.matchClause(Parsers.scala:2114)
+	at dotty.tools.dotc.parsing.Parsers$Parser.recur$4(Parsers.scala:955)
+	at dotty.tools.dotc.parsing.Parsers$Parser.infixOps(Parsers.scala:964)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExprRest(Parsers.scala:2209)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExpr(Parsers.scala:2199)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr1(Parsers.scala:2044)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr(Parsers.scala:1937)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$init$$$anonfun$5(Parsers.scala:1903)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subPart(Parsers.scala:600)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subExpr(Parsers.scala:1905)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defDefOrDcl(Parsers.scala:3358)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3249)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq$$anonfun$1(Parsers.scala:3877)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq(Parsers.scala:3885)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$anonfun$33(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.enclosed(Parsers.scala:533)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inBracesOrIndented(Parsers.scala:544)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inDefScopeBraces(Parsers.scala:550)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBody(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBodyOpt(Parsers.scala:3765)
+	at dotty.tools.dotc.parsing.Parsers$Parser.template(Parsers.scala:3742)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateOpt(Parsers.scala:3754)
+	at dotty.tools.dotc.parsing.Parsers$Parser.objectDef(Parsers.scala:3504)
+	at dotty.tools.dotc.parsing.Parsers$Parser.tmplDef(Parsers.scala:3463)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3255)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topStatSeq(Parsers.scala:3829)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3996)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3990)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit$$anonfun$1(Parsers.scala:4001)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit(Parsers.scala:4006)
+	at dotty.tools.dotc.parsing.Parsers$Parser.parse(Parsers.scala:177)
+	at dotty.tools.dotc.parsing.Parser.parse$$anonfun$1(ParserPhase.scala:34)
+	at dotty.tools.dotc.core.Phases$Phase.monitor(Phases.scala:411)
+	at dotty.tools.dotc.parsing.Parser.parse(ParserPhase.scala:41)
+	at dotty.tools.dotc.parsing.Parser.runOn$$anonfun$1(ParserPhase.scala:50)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.parsing.Parser.runOn(ParserPhase.scala:50)
+	at dotty.tools.dotc.Run.runPhases$4$$anonfun$4(Run.scala:261)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.ArrayOps$.foreach$extension(ArrayOps.scala:1328)
+	at dotty.tools.dotc.Run.runPhases$5(Run.scala:272)
+	at dotty.tools.dotc.Run.compileUnits$$anonfun$1(Run.scala:280)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at dotty.tools.dotc.util.Stats$.maybeMonitored(Stats.scala:68)
+	at dotty.tools.dotc.Run.compileUnits(Run.scala:289)
+	at dotty.tools.dotc.Run.compileSources(Run.scala:222)
+	at dotty.tools.dotc.interactive.InteractiveDriver.run(InteractiveDriver.scala:163)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:39)
+
+jul. 08, 2022 10:02:48 A. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: assertion failed
+java.lang.AssertionError: assertion failed
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:11)
+	at dotty.tools.dotc.util.Spans$Span$.start$extension(Spans.scala:44)
+	at dotty.tools.dotc.parsing.Parsers$Parser.matchClause(Parsers.scala:2114)
+	at dotty.tools.dotc.parsing.Parsers$Parser.recur$4(Parsers.scala:955)
+	at dotty.tools.dotc.parsing.Parsers$Parser.infixOps(Parsers.scala:964)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExprRest(Parsers.scala:2209)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExpr(Parsers.scala:2199)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr1(Parsers.scala:2044)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr(Parsers.scala:1937)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$init$$$anonfun$5(Parsers.scala:1903)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subPart(Parsers.scala:600)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subExpr(Parsers.scala:1905)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defDefOrDcl(Parsers.scala:3358)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3249)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq$$anonfun$1(Parsers.scala:3877)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq(Parsers.scala:3885)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$anonfun$33(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.enclosed(Parsers.scala:533)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inBracesOrIndented(Parsers.scala:544)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inDefScopeBraces(Parsers.scala:550)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBody(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBodyOpt(Parsers.scala:3765)
+	at dotty.tools.dotc.parsing.Parsers$Parser.template(Parsers.scala:3742)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateOpt(Parsers.scala:3754)
+	at dotty.tools.dotc.parsing.Parsers$Parser.objectDef(Parsers.scala:3504)
+	at dotty.tools.dotc.parsing.Parsers$Parser.tmplDef(Parsers.scala:3463)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3255)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topStatSeq(Parsers.scala:3829)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3996)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3990)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit$$anonfun$1(Parsers.scala:4001)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit(Parsers.scala:4006)
+	at dotty.tools.dotc.parsing.Parsers$Parser.parse(Parsers.scala:177)
+	at dotty.tools.dotc.parsing.Parser.parse$$anonfun$1(ParserPhase.scala:34)
+	at dotty.tools.dotc.core.Phases$Phase.monitor(Phases.scala:411)
+	at dotty.tools.dotc.parsing.Parser.parse(ParserPhase.scala:41)
+	at dotty.tools.dotc.parsing.Parser.runOn$$anonfun$1(ParserPhase.scala:50)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.parsing.Parser.runOn(ParserPhase.scala:50)
+	at dotty.tools.dotc.Run.runPhases$4$$anonfun$4(Run.scala:261)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.ArrayOps$.foreach$extension(ArrayOps.scala:1328)
+	at dotty.tools.dotc.Run.runPhases$5(Run.scala:272)
+	at dotty.tools.dotc.Run.compileUnits$$anonfun$1(Run.scala:280)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at dotty.tools.dotc.util.Stats$.maybeMonitored(Stats.scala:68)
+	at dotty.tools.dotc.Run.compileUnits(Run.scala:289)
+	at dotty.tools.dotc.Run.compileSources(Run.scala:222)
+	at dotty.tools.dotc.interactive.InteractiveDriver.run(InteractiveDriver.scala:163)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:39)
+
+jul. 08, 2022 10:02:48 A. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: assertion failed
+java.lang.AssertionError: assertion failed
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:11)
+	at dotty.tools.dotc.util.Spans$Span$.start$extension(Spans.scala:44)
+	at dotty.tools.dotc.parsing.Parsers$Parser.matchClause(Parsers.scala:2114)
+	at dotty.tools.dotc.parsing.Parsers$Parser.recur$4(Parsers.scala:955)
+	at dotty.tools.dotc.parsing.Parsers$Parser.infixOps(Parsers.scala:964)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExprRest(Parsers.scala:2209)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExpr(Parsers.scala:2199)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr1(Parsers.scala:2044)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr(Parsers.scala:1937)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$init$$$anonfun$5(Parsers.scala:1903)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subPart(Parsers.scala:600)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subExpr(Parsers.scala:1905)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defDefOrDcl(Parsers.scala:3358)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3249)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq$$anonfun$1(Parsers.scala:3877)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq(Parsers.scala:3885)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$anonfun$33(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.enclosed(Parsers.scala:533)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inBracesOrIndented(Parsers.scala:544)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inDefScopeBraces(Parsers.scala:550)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBody(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBodyOpt(Parsers.scala:3765)
+	at dotty.tools.dotc.parsing.Parsers$Parser.template(Parsers.scala:3742)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateOpt(Parsers.scala:3754)
+	at dotty.tools.dotc.parsing.Parsers$Parser.objectDef(Parsers.scala:3504)
+	at dotty.tools.dotc.parsing.Parsers$Parser.tmplDef(Parsers.scala:3463)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3255)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topStatSeq(Parsers.scala:3829)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3996)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3990)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit$$anonfun$1(Parsers.scala:4001)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit(Parsers.scala:4006)
+	at dotty.tools.dotc.parsing.Parsers$Parser.parse(Parsers.scala:177)
+	at dotty.tools.dotc.parsing.Parser.parse$$anonfun$1(ParserPhase.scala:34)
+	at dotty.tools.dotc.core.Phases$Phase.monitor(Phases.scala:411)
+	at dotty.tools.dotc.parsing.Parser.parse(ParserPhase.scala:41)
+	at dotty.tools.dotc.parsing.Parser.runOn$$anonfun$1(ParserPhase.scala:50)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.parsing.Parser.runOn(ParserPhase.scala:50)
+	at dotty.tools.dotc.Run.runPhases$4$$anonfun$4(Run.scala:261)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.ArrayOps$.foreach$extension(ArrayOps.scala:1328)
+	at dotty.tools.dotc.Run.runPhases$5(Run.scala:272)
+	at dotty.tools.dotc.Run.compileUnits$$anonfun$1(Run.scala:280)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at dotty.tools.dotc.util.Stats$.maybeMonitored(Stats.scala:68)
+	at dotty.tools.dotc.Run.compileUnits(Run.scala:289)
+	at dotty.tools.dotc.Run.compileSources(Run.scala:222)
+	at dotty.tools.dotc.interactive.InteractiveDriver.run(InteractiveDriver.scala:163)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:39)
+
+jul. 08, 2022 10:02:57 A. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: assertion failed
+java.lang.AssertionError: assertion failed
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:11)
+	at dotty.tools.dotc.util.Spans$Span$.start$extension(Spans.scala:44)
+	at dotty.tools.dotc.parsing.Parsers$Parser.matchClause(Parsers.scala:2114)
+	at dotty.tools.dotc.parsing.Parsers$Parser.recur$4(Parsers.scala:955)
+	at dotty.tools.dotc.parsing.Parsers$Parser.infixOps(Parsers.scala:964)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExprRest(Parsers.scala:2209)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExpr(Parsers.scala:2199)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr1(Parsers.scala:2044)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr(Parsers.scala:1937)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$init$$$anonfun$5(Parsers.scala:1903)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subPart(Parsers.scala:600)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subExpr(Parsers.scala:1905)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defDefOrDcl(Parsers.scala:3358)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3249)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq$$anonfun$1(Parsers.scala:3877)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq(Parsers.scala:3885)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$anonfun$33(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.enclosed(Parsers.scala:533)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inBracesOrIndented(Parsers.scala:544)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inDefScopeBraces(Parsers.scala:550)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBody(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBodyOpt(Parsers.scala:3765)
+	at dotty.tools.dotc.parsing.Parsers$Parser.template(Parsers.scala:3742)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateOpt(Parsers.scala:3754)
+	at dotty.tools.dotc.parsing.Parsers$Parser.objectDef(Parsers.scala:3504)
+	at dotty.tools.dotc.parsing.Parsers$Parser.tmplDef(Parsers.scala:3463)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3255)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topStatSeq(Parsers.scala:3829)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3996)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3990)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit$$anonfun$1(Parsers.scala:4001)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit(Parsers.scala:4006)
+	at dotty.tools.dotc.parsing.Parsers$Parser.parse(Parsers.scala:177)
+	at dotty.tools.dotc.parsing.Parser.parse$$anonfun$1(ParserPhase.scala:34)
+	at dotty.tools.dotc.core.Phases$Phase.monitor(Phases.scala:411)
+	at dotty.tools.dotc.parsing.Parser.parse(ParserPhase.scala:41)
+	at dotty.tools.dotc.parsing.Parser.runOn$$anonfun$1(ParserPhase.scala:50)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.parsing.Parser.runOn(ParserPhase.scala:50)
+	at dotty.tools.dotc.Run.runPhases$4$$anonfun$4(Run.scala:261)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.ArrayOps$.foreach$extension(ArrayOps.scala:1328)
+	at dotty.tools.dotc.Run.runPhases$5(Run.scala:272)
+	at dotty.tools.dotc.Run.compileUnits$$anonfun$1(Run.scala:280)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at dotty.tools.dotc.util.Stats$.maybeMonitored(Stats.scala:68)
+	at dotty.tools.dotc.Run.compileUnits(Run.scala:289)
+	at dotty.tools.dotc.Run.compileSources(Run.scala:222)
+	at dotty.tools.dotc.interactive.InteractiveDriver.run(InteractiveDriver.scala:163)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:39)
+
+jul. 08, 2022 10:02:57 A. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: assertion failed
+java.lang.AssertionError: assertion failed
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:11)
+	at dotty.tools.dotc.util.Spans$Span$.start$extension(Spans.scala:44)
+	at dotty.tools.dotc.parsing.Parsers$Parser.matchClause(Parsers.scala:2114)
+	at dotty.tools.dotc.parsing.Parsers$Parser.recur$4(Parsers.scala:955)
+	at dotty.tools.dotc.parsing.Parsers$Parser.infixOps(Parsers.scala:964)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExprRest(Parsers.scala:2209)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExpr(Parsers.scala:2199)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr1(Parsers.scala:2044)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr(Parsers.scala:1937)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$init$$$anonfun$5(Parsers.scala:1903)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subPart(Parsers.scala:600)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subExpr(Parsers.scala:1905)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defDefOrDcl(Parsers.scala:3358)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3249)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq$$anonfun$1(Parsers.scala:3877)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq(Parsers.scala:3885)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$anonfun$33(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.enclosed(Parsers.scala:533)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inBracesOrIndented(Parsers.scala:544)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inDefScopeBraces(Parsers.scala:550)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBody(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBodyOpt(Parsers.scala:3765)
+	at dotty.tools.dotc.parsing.Parsers$Parser.template(Parsers.scala:3742)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateOpt(Parsers.scala:3754)
+	at dotty.tools.dotc.parsing.Parsers$Parser.objectDef(Parsers.scala:3504)
+	at dotty.tools.dotc.parsing.Parsers$Parser.tmplDef(Parsers.scala:3463)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3255)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topStatSeq(Parsers.scala:3829)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3996)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3990)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit$$anonfun$1(Parsers.scala:4001)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit(Parsers.scala:4006)
+	at dotty.tools.dotc.parsing.Parsers$Parser.parse(Parsers.scala:177)
+	at dotty.tools.dotc.parsing.Parser.parse$$anonfun$1(ParserPhase.scala:34)
+	at dotty.tools.dotc.core.Phases$Phase.monitor(Phases.scala:411)
+	at dotty.tools.dotc.parsing.Parser.parse(ParserPhase.scala:41)
+	at dotty.tools.dotc.parsing.Parser.runOn$$anonfun$1(ParserPhase.scala:50)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.parsing.Parser.runOn(ParserPhase.scala:50)
+	at dotty.tools.dotc.Run.runPhases$4$$anonfun$4(Run.scala:261)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.ArrayOps$.foreach$extension(ArrayOps.scala:1328)
+	at dotty.tools.dotc.Run.runPhases$5(Run.scala:272)
+	at dotty.tools.dotc.Run.compileUnits$$anonfun$1(Run.scala:280)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at dotty.tools.dotc.util.Stats$.maybeMonitored(Stats.scala:68)
+	at dotty.tools.dotc.Run.compileUnits(Run.scala:289)
+	at dotty.tools.dotc.Run.compileSources(Run.scala:222)
+	at dotty.tools.dotc.interactive.InteractiveDriver.run(InteractiveDriver.scala:163)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:39)
+
+jul. 08, 2022 10:03:03 A. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: assertion failed
+java.lang.AssertionError: assertion failed
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:11)
+	at dotty.tools.dotc.util.Spans$Span$.start$extension(Spans.scala:44)
+	at dotty.tools.dotc.parsing.Parsers$Parser.matchClause(Parsers.scala:2114)
+	at dotty.tools.dotc.parsing.Parsers$Parser.recur$4(Parsers.scala:955)
+	at dotty.tools.dotc.parsing.Parsers$Parser.infixOps(Parsers.scala:964)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExprRest(Parsers.scala:2209)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExpr(Parsers.scala:2199)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr1(Parsers.scala:2044)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr(Parsers.scala:1937)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$init$$$anonfun$5(Parsers.scala:1903)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subPart(Parsers.scala:600)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subExpr(Parsers.scala:1905)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defDefOrDcl(Parsers.scala:3358)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3249)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq$$anonfun$1(Parsers.scala:3877)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq(Parsers.scala:3885)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$anonfun$33(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.enclosed(Parsers.scala:533)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inBracesOrIndented(Parsers.scala:544)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inDefScopeBraces(Parsers.scala:550)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBody(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBodyOpt(Parsers.scala:3765)
+	at dotty.tools.dotc.parsing.Parsers$Parser.template(Parsers.scala:3742)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateOpt(Parsers.scala:3754)
+	at dotty.tools.dotc.parsing.Parsers$Parser.objectDef(Parsers.scala:3504)
+	at dotty.tools.dotc.parsing.Parsers$Parser.tmplDef(Parsers.scala:3463)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3255)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topStatSeq(Parsers.scala:3829)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3996)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3990)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit$$anonfun$1(Parsers.scala:4001)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit(Parsers.scala:4006)
+	at dotty.tools.dotc.parsing.Parsers$Parser.parse(Parsers.scala:177)
+	at dotty.tools.dotc.parsing.Parser.parse$$anonfun$1(ParserPhase.scala:34)
+	at dotty.tools.dotc.core.Phases$Phase.monitor(Phases.scala:411)
+	at dotty.tools.dotc.parsing.Parser.parse(ParserPhase.scala:41)
+	at dotty.tools.dotc.parsing.Parser.runOn$$anonfun$1(ParserPhase.scala:50)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.parsing.Parser.runOn(ParserPhase.scala:50)
+	at dotty.tools.dotc.Run.runPhases$4$$anonfun$4(Run.scala:261)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.ArrayOps$.foreach$extension(ArrayOps.scala:1328)
+	at dotty.tools.dotc.Run.runPhases$5(Run.scala:272)
+	at dotty.tools.dotc.Run.compileUnits$$anonfun$1(Run.scala:280)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at dotty.tools.dotc.util.Stats$.maybeMonitored(Stats.scala:68)
+	at dotty.tools.dotc.Run.compileUnits(Run.scala:289)
+	at dotty.tools.dotc.Run.compileSources(Run.scala:222)
+	at dotty.tools.dotc.interactive.InteractiveDriver.run(InteractiveDriver.scala:163)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:39)
+
+jul. 08, 2022 10:03:03 A. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: assertion failed
+java.lang.AssertionError: assertion failed
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:11)
+	at dotty.tools.dotc.util.Spans$Span$.start$extension(Spans.scala:44)
+	at dotty.tools.dotc.parsing.Parsers$Parser.matchClause(Parsers.scala:2114)
+	at dotty.tools.dotc.parsing.Parsers$Parser.recur$4(Parsers.scala:955)
+	at dotty.tools.dotc.parsing.Parsers$Parser.infixOps(Parsers.scala:964)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExprRest(Parsers.scala:2209)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExpr(Parsers.scala:2199)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr1(Parsers.scala:2044)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr(Parsers.scala:1937)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$init$$$anonfun$5(Parsers.scala:1903)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subPart(Parsers.scala:600)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subExpr(Parsers.scala:1905)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defDefOrDcl(Parsers.scala:3358)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3249)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq$$anonfun$1(Parsers.scala:3877)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq(Parsers.scala:3885)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$anonfun$33(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.enclosed(Parsers.scala:533)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inBracesOrIndented(Parsers.scala:544)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inDefScopeBraces(Parsers.scala:550)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBody(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBodyOpt(Parsers.scala:3765)
+	at dotty.tools.dotc.parsing.Parsers$Parser.template(Parsers.scala:3742)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateOpt(Parsers.scala:3754)
+	at dotty.tools.dotc.parsing.Parsers$Parser.objectDef(Parsers.scala:3504)
+	at dotty.tools.dotc.parsing.Parsers$Parser.tmplDef(Parsers.scala:3463)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3255)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topStatSeq(Parsers.scala:3829)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3996)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3990)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit$$anonfun$1(Parsers.scala:4001)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit(Parsers.scala:4006)
+	at dotty.tools.dotc.parsing.Parsers$Parser.parse(Parsers.scala:177)
+	at dotty.tools.dotc.parsing.Parser.parse$$anonfun$1(ParserPhase.scala:34)
+	at dotty.tools.dotc.core.Phases$Phase.monitor(Phases.scala:411)
+	at dotty.tools.dotc.parsing.Parser.parse(ParserPhase.scala:41)
+	at dotty.tools.dotc.parsing.Parser.runOn$$anonfun$1(ParserPhase.scala:50)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.parsing.Parser.runOn(ParserPhase.scala:50)
+	at dotty.tools.dotc.Run.runPhases$4$$anonfun$4(Run.scala:261)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.ArrayOps$.foreach$extension(ArrayOps.scala:1328)
+	at dotty.tools.dotc.Run.runPhases$5(Run.scala:272)
+	at dotty.tools.dotc.Run.compileUnits$$anonfun$1(Run.scala:280)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at dotty.tools.dotc.util.Stats$.maybeMonitored(Stats.scala:68)
+	at dotty.tools.dotc.Run.compileUnits(Run.scala:289)
+	at dotty.tools.dotc.Run.compileSources(Run.scala:222)
+	at dotty.tools.dotc.interactive.InteractiveDriver.run(InteractiveDriver.scala:163)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:39)
+
+jul. 08, 2022 10:03:04 A. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: assertion failed
+java.lang.AssertionError: assertion failed
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:11)
+	at dotty.tools.dotc.util.Spans$Span$.start$extension(Spans.scala:44)
+	at dotty.tools.dotc.parsing.Parsers$Parser.matchClause(Parsers.scala:2114)
+	at dotty.tools.dotc.parsing.Parsers$Parser.recur$4(Parsers.scala:955)
+	at dotty.tools.dotc.parsing.Parsers$Parser.infixOps(Parsers.scala:964)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExprRest(Parsers.scala:2209)
+	at dotty.tools.dotc.parsing.Parsers$Parser.postfixExpr(Parsers.scala:2199)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr1(Parsers.scala:2044)
+	at dotty.tools.dotc.parsing.Parsers$Parser.expr(Parsers.scala:1937)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$init$$$anonfun$5(Parsers.scala:1903)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subPart(Parsers.scala:600)
+	at dotty.tools.dotc.parsing.Parsers$Parser.subExpr(Parsers.scala:1905)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defDefOrDcl(Parsers.scala:3358)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3249)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq$$anonfun$1(Parsers.scala:3877)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateStatSeq(Parsers.scala:3885)
+	at dotty.tools.dotc.parsing.Parsers$Parser.$anonfun$33(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.enclosed(Parsers.scala:533)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inBracesOrIndented(Parsers.scala:544)
+	at dotty.tools.dotc.parsing.Parsers$Parser.inDefScopeBraces(Parsers.scala:550)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBody(Parsers.scala:3772)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateBodyOpt(Parsers.scala:3765)
+	at dotty.tools.dotc.parsing.Parsers$Parser.template(Parsers.scala:3742)
+	at dotty.tools.dotc.parsing.Parsers$Parser.templateOpt(Parsers.scala:3754)
+	at dotty.tools.dotc.parsing.Parsers$Parser.objectDef(Parsers.scala:3504)
+	at dotty.tools.dotc.parsing.Parsers$Parser.tmplDef(Parsers.scala:3463)
+	at dotty.tools.dotc.parsing.Parsers$Parser.defOrDcl(Parsers.scala:3255)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topStatSeq(Parsers.scala:3829)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3996)
+	at dotty.tools.dotc.parsing.Parsers$Parser.topstats$2(Parsers.scala:3990)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit$$anonfun$1(Parsers.scala:4001)
+	at dotty.tools.dotc.parsing.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:477)
+	at dotty.tools.dotc.parsing.Parsers$Parser.compilationUnit(Parsers.scala:4006)
+	at dotty.tools.dotc.parsing.Parsers$Parser.parse(Parsers.scala:177)
+	at dotty.tools.dotc.parsing.Parser.parse$$anonfun$1(ParserPhase.scala:34)
+	at dotty.tools.dotc.core.Phases$Phase.monitor(Phases.scala:411)
+	at dotty.tools.dotc.parsing.Parser.parse(ParserPhase.scala:41)
+	at dotty.tools.dotc.parsing.Parser.runOn$$anonfun$1(ParserPhase.scala:50)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.parsing.Parser.runOn(ParserPhase.scala:50)
+	at dotty.tools.dotc.Run.runPhases$4$$anonfun$4(Run.scala:261)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.ArrayOps$.foreach$extension(ArrayOps.scala:1328)
+	at dotty.tools.dotc.Run.runPhases$5(Run.scala:272)
+	at dotty.tools.dotc.Run.compileUnits$$anonfun$1(Run.scala:280)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at dotty.tools.dotc.util.Stats$.maybeMonitored(Stats.scala:68)
+	at dotty.tools.dotc.Run.compileUnits(Run.scala:289)
+	at dotty.tools.dotc.Run.compileSources(Run.scala:222)
+	at dotty.tools.dotc.interactive.InteractiveDriver.run(InteractiveDriver.scala:163)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:39)
+
+2022.07.08 10:03:53 INFO  compiling fireworks (1 scala source)
+2022.07.08 10:03:54 INFO  time: compiled fireworks in 1.3s
+2022.07.08 10:04:27 INFO  compiling fireworks (1 scala source)
+2022.07.08 10:04:27 INFO  Deduplicating compilation of fireworks from bsp client 'Metals 0.11.7' (since 5m 48.866s)
+2022.07.08 10:04:27 INFO  compiling fireworks (1 scala source)
+2022.07.08 10:04:29 INFO  time: compiled fireworks in 1.35s
+2022.07.08 10:06:32 INFO  compiling fireworks (1 scala source)
+Exception in thread "pool-4-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:196)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022.07.08 10:06:32 INFO  time: compiled fireworks in 0.46s
+2022.07.08 10:07:59 INFO  compiling fireworks (1 scala source)
+2022.07.08 10:07:59 INFO  time: compiled fireworks in 0.2s
+2022.07.08 10:09:54 INFO  compiling fireworks (1 scala source)
+2022.07.08 10:09:54 INFO  time: compiled fireworks in 1s
+jul. 08, 2022 10:12:12 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 571
+2022.07.08 10:13:06 INFO  compiling fireworks (1 scala source)
+2022.07.08 10:13:06 INFO  time: compiled fireworks in 0.19s
+2022.07.08 10:13:13 INFO  compiling fireworks (1 scala source)
+2022.07.08 10:13:13 INFO  time: compiled fireworks in 0.21s
+2022.07.08 10:13:24 INFO  compiling fireworks (1 scala source)
+2022.07.08 10:13:24 INFO  time: compiled fireworks in 0.16s
+2022.07.08 10:13:27 INFO  compiling fireworks (1 scala source)
+2022.07.08 10:13:27 INFO  time: compiled fireworks in 0.14s
+2022.07.08 10:16:43 INFO  compiling fireworks (1 scala source)
+2022.07.08 10:16:43 INFO  time: compiled fireworks in 0.75s
+2022.07.08 10:17:30 INFO  compiling fireworks (1 scala source)
+2022.07.08 10:17:30 INFO  time: compiled fireworks in 0.24s
+2022.07.08 10:18:10 INFO  compiling fireworks (1 scala source)
+2022.07.08 10:18:10 INFO  time: compiled fireworks in 0.15s
+2022.07.08 10:19:45 INFO  compiling fireworks (1 scala source)
+2022.07.08 10:19:45 INFO  time: compiled fireworks in 0.18s
+2022.07.08 10:20:06 INFO  compiling fireworks (1 scala source)
+2022.07.08 10:20:06 INFO  time: compiled fireworks in 0.57s
+2022.07.08 10:20:19 INFO  Deduplicating compilation of fireworks from bsp client 'Metals 0.11.7' (since 21m 40.977s)
+2022.07.08 10:20:19 INFO  Deduplicating compilation of fireworks-test from bsp client 'Metals 0.11.7' (since 21m 40.996s)
+2022.07.08 10:20:19 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\fireworks\.metals\dap-server.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2022.07.08 10:20:19 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\fireworks\.metals\dap-client.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2022.07.08 10:20:20 INFO  Starting debug proxy for [fireworks.FireworksSuite()]
+2022.07.08 10:20:21 INFO  Trying to attach to remote debuggee VM 127.0.0.1:53195 .
+2022.07.08 10:20:21 INFO  Attaching to debuggee VM succeeded.
+2022.07.08 10:20:21 INFO  Closing debug server tcp://0.0.0.0:53189
+2022.07.08 10:20:22 INFO  Canceling debug proxy for [fireworks.FireworksSuite()]
+jul. 08, 2022 10:22:24 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2022.07.12 17:44:01 INFO  shutting down Metals
+2022.07.13 23:28:31 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\.metals\lsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.13 23:28:32 INFO  logging to file C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\.metals\metals.log
+2022.07.13 23:28:32 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks' for client Visual Studio Code 1.69.1.
+2022.07.13 23:28:33 INFO  time: initialize in 0.94s
+2022.07.13 23:28:33 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.13 23:28:34 INFO  Attempting to connect to the build server...
+2022.07.13 23:28:34 INFO  Bloop uses C:\Program Files\Eclipse Foundation\jdk-17.0.0.35-hotspot defined at C:\Users\juanj\.bloop\bloop.json
+2022.07.13 23:28:42 INFO  no build target found for C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\main\scala\fireworks\Fireworks.scala. Using presentation compiler with project's scala-library version: 3.1.3
+jul. 13, 2022 11:28:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4
+jul. 13, 2022 11:28:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5
+jul. 13, 2022 11:28:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 7
+jul. 13, 2022 11:28:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 12
+2022.07.13 23:28:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.13 23:28:44 INFO  time: code lens generation in 1.8s
+2022.07.13 23:28:44 INFO  time: code lens generation in 1.75s
+2022.07.13 23:28:44 INFO  Attempting to connect to the build server...
+2022.07.13 23:28:44 INFO  Bloop uses C:\Program Files\Eclipse Foundation\jdk-17.0.0.35-hotspot defined at C:\Users\juanj\.bloop\bloop.json
+2022.07.13 23:28:44 INFO  Attempting to connect to the build server...
+2022.07.13 23:28:44 INFO  Bloop uses C:\Program Files\Eclipse Foundation\jdk-17.0.0.35-hotspot defined at C:\Users\juanj\.bloop\bloop.json
+2022.07.13 23:28:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\project\project\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.13 23:28:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\project\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.13 23:28:44 INFO  time: Connected to build server in 10s
+2022.07.13 23:28:44 INFO  Connected to Build server: Bloop v1.5.2
+2022.07.13 23:28:44 INFO  time: Imported build in 0.31s
+2022.07.13 23:28:49 INFO  time: indexed workspace in 4.62s
+2022.07.13 23:28:49 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\assignment.sbt
+2022.07.13 23:28:49 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\main\scala\fireworks\Fireworks.scala
+2022.07.13 23:28:49 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\build.sbt
+2022.07.13 23:28:49 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\assignment.sbt
+2022.07.13 23:28:50 INFO  no build target found for C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\assignment.sbt. Using presentation compiler with project's scala-library version: 3.1.0
+jul. 13, 2022 11:29:11 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 26
+2022.07.13 23:32:36 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksGenerators.scala
+2022.07.13 23:32:43 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\main\scala\fireworks\Fireworks.scala
+jul. 13, 2022 11:33:27 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 71
+2022.07.13 23:33:30 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\main\scala\fireworks\Fireworks.scala
+2022.07.13 23:33:42 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\main\scala\fireworks\Fireworks.scala
+2022.07.13 23:34:07 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\main\scala\fireworks\Fireworks.scala
+2022.07.13 23:34:19 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\main\scala\fireworks\Fireworks.scala
+2022.07.13 23:34:29 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\main\scala\fireworks\Fireworks.scala
+jul. 13, 2022 11:34:35 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 119
+2022.07.13 23:34:37 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\main\scala\fireworks\Fireworks.scala
+Exception in thread "pool-4-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:196)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022.07.13 23:34:53 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\main\scala\fireworks\Fireworks.scala
+Exception in thread "pool-4-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:196)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022.07.13 23:35:09 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\main\scala\fireworks\Fireworks.scala
+2022.07.13 23:35:17 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\main\scala\fireworks\Fireworks.scala
+2022.07.13 23:35:26 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\main\scala\fireworks\Fireworks.scala
+2022.07.13 23:35:38 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\main\scala\fireworks\Fireworks.scala
+2022.07.13 23:36:06 INFO  shutting down Metals
+2022.07.13 23:36:06 INFO  Shut down connection with build server.
+2022.07.13 23:36:06 INFO  Shut down connection with build server.
+2022.07.13 23:36:06 INFO  Shut down connection with build server.
+2022.07.13 23:36:06 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2022.07.14 12:34:17 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\.metals\lsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.14 12:34:18 INFO  logging to file C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\.metals\metals.log
+2022.07.14 12:34:18 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks' for client Visual Studio Code 1.69.1.
+2022.07.14 12:34:19 INFO  time: initialize in 0.76s
+2022.07.14 12:34:19 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.14 12:34:19 INFO  Attempting to connect to the build server...
+2022.07.14 12:34:19 INFO  Bloop uses C:\Program Files\Eclipse Foundation\jdk-17.0.0.35-hotspot defined at C:\Users\juanj\.bloop\bloop.json
+2022.07.14 12:34:20 INFO  skipping build import with status 'Requested'
+jul. 14, 2022 12:34:22 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1
+2022.07.14 12:34:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.14 12:34:24 INFO  Attempting to connect to the build server...
+2022.07.14 12:34:24 INFO  Bloop uses C:\Program Files\Eclipse Foundation\jdk-17.0.0.35-hotspot defined at C:\Users\juanj\.bloop\bloop.json
+2022.07.14 12:34:24 INFO  Attempting to connect to the build server...
+2022.07.14 12:34:24 INFO  Bloop uses C:\Program Files\Eclipse Foundation\jdk-17.0.0.35-hotspot defined at C:\Users\juanj\.bloop\bloop.json
+2022.07.14 12:34:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\project\project\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.14 12:34:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\project\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.14 12:34:24 INFO  time: Connected to build server in 5.13s
+2022.07.14 12:34:24 INFO  Connected to Build server: Bloop v1.5.2
+2022.07.14 12:34:25 INFO  no build target found for C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksGenerators.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.14 12:34:25 INFO  time: Imported build in 0.27s
+2022.07.14 12:34:27 INFO  no build target found for C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksSuite.scala. Using presentation compiler with project's scala-library version: 3.1.0
+jul. 14, 2022 12:34:27 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 7
+2022.07.14 12:34:29 INFO  time: indexed workspace in 4.03s
+2022.07.14 12:34:29 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksSuite.scala
+2022.07.14 12:34:29 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\main\scala\fireworks\Fireworks.scala
+2022.07.14 12:34:29 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksSuite.scala
+2022.07.14 12:34:29 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\main\scala\fireworks\Fireworks.scala
+2022.07.14 12:34:29 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksGenerators.scala
+2022.07.14 12:34:30 INFO  time: code lens generation in 2.29s
+2022.07.14 12:34:30 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksGenerators.scala
+2022.07.14 12:34:34 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksSuite.scala
+2022.07.14 12:34:35 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksGenerators.scala
+2022.07.14 12:34:39 INFO  compiling fireworks-build (3 scala sources)
+2022.07.14 12:34:45 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksGenerators.scala
+2022.07.14 12:34:46 INFO  time: compiled fireworks-build in 6.54s
+2022.07.14 12:34:46 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksSuite.scala
+2022.07.14 12:34:49 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksGenerators.scala
+2022.07.14 12:34:52 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksSuite.scala
+2022.07.14 12:35:00 INFO  shutting down Metals
+2022.07.14 12:35:00 INFO  Shut down connection with build server.
+2022.07.14 12:35:00 INFO  Shut down connection with build server.
+2022.07.14 12:35:00 INFO  Shut down connection with build server.
+2022.07.14 12:35:09 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\.metals\lsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.14 12:35:10 INFO  logging to file C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\.metals\metals.log
+2022.07.14 12:35:10 INFO  Started: Metals version 0.11.7 in workspace 'C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks' for client Visual Studio Code 1.69.1.
+2022.07.14 12:35:10 INFO  time: initialize in 0.68s
+2022.07.14 12:35:10 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.14 12:35:11 INFO  Attempting to connect to the build server...
+2022.07.14 12:35:11 INFO  Bloop uses C:\Program Files\Eclipse Foundation\jdk-17.0.0.35-hotspot defined at C:\Users\juanj\.bloop\bloop.json
+2022.07.14 12:35:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.14 12:35:11 INFO  skipping build import with status 'Requested'
+2022.07.14 12:35:11 INFO  Attempting to connect to the build server...
+2022.07.14 12:35:11 INFO  Bloop uses C:\Program Files\Eclipse Foundation\jdk-17.0.0.35-hotspot defined at C:\Users\juanj\.bloop\bloop.json
+2022.07.14 12:35:11 INFO  Attempting to connect to the build server...
+2022.07.14 12:35:11 INFO  Bloop uses C:\Program Files\Eclipse Foundation\jdk-17.0.0.35-hotspot defined at C:\Users\juanj\.bloop\bloop.json
+2022.07.14 12:35:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\project\project\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.14 12:35:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\project\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.14 12:35:11 INFO  time: Connected to build server in 0.62s
+2022.07.14 12:35:11 INFO  Connected to Build server: Bloop v1.5.2
+2022.07.14 12:35:12 INFO  time: Imported build in 0.14s
+jul. 14, 2022 12:35:14 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4
+2022.07.14 12:35:18 INFO  no build target found for C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksSuite.scala. Using presentation compiler with project's scala-library version: 3.1.0
+2022.07.14 12:35:20 INFO  time: indexed workspace in 8.37s
+2022.07.14 12:35:20 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksSuite.scala
+2022.07.14 12:35:20 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksSuite.scala
+2022.07.14 12:35:22 INFO  time: code lens generation in 7.49s
+2022.07.14 12:35:48 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksGenerators.scala
+2022.07.14 12:35:54 INFO  shutting down Metals
+2022.07.14 12:35:54 INFO  Shut down connection with build server.
+2022.07.14 12:35:54 INFO  Shut down connection with build server.
+2022.07.14 12:35:54 INFO  Shut down connection with build server.
+2022.07.14 12:43:38 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\.metals\lsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.14 12:43:39 INFO  logging to file C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\.metals\metals.log
+2022.07.14 12:43:39 INFO  Started: Metals version 0.11.7+19-1405f4de-SNAPSHOT in workspace 'C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks' for client Visual Studio Code 1.69.1.
+2022.07.14 12:43:39 INFO  time: initialize in 0.69s
+2022.07.14 12:43:40 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.14 12:43:40 INFO  Attempting to connect to the build server...
+2022.07.14 12:43:40 INFO  Bloop uses C:\Program Files\Eclipse Foundation\jdk-17.0.0.35-hotspot defined at C:\Users\juanj\.bloop\bloop.json
+2022.07.14 12:43:41 INFO  skipping build import with status 'Requested'
+2022.07.14 12:43:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.14 12:43:40 INFO  Attempting to connect to the build server...
+2022.07.14 12:43:40 INFO  Bloop uses C:\Program Files\Eclipse Foundation\jdk-17.0.0.35-hotspot defined at C:\Users\juanj\.bloop\bloop.json
+2022.07.14 12:43:40 INFO  Attempting to connect to the build server...
+2022.07.14 12:43:40 INFO  Bloop uses C:\Program Files\Eclipse Foundation\jdk-17.0.0.35-hotspot defined at C:\Users\juanj\.bloop\bloop.json
+2022.07.14 12:43:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\project\project\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.14 12:43:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\project\.metals\bsp.trace.json or C:\Users\juanj\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.07.14 12:43:41 INFO  time: Connected to build server in 0.55s
+2022.07.14 12:43:40 INFO  Connected to Build server: Bloop v1.5.2
+2022.07.14 12:43:41 INFO  time: Imported build in 0.17s
+2022.07.14 12:43:45 INFO  no build target found for C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksGenerators.scala. Using presentation compiler with project's scala-library version: 3.1.0
+2022.07.14 12:43:48 INFO  time: code lens generation in 5.6s
+2022.07.14 12:43:51 INFO  time: indexed workspace in 10s
+2022.07.14 12:43:51 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksGenerators.scala
+2022.07.14 12:43:51 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\test\scala\fireworks\FireworksGenerators.scala
+2022.07.14 12:44:27 WARN  no build target for: C:\Users\juanj\Desktop\SCALA_TRAINING\fireworks\src\main\scala\fireworks\Fireworks.scala
+2022.07.14 12:44:34 INFO  shutting down Metals
+2022.07.14 12:44:34 INFO  Shut down connection with build server.
+2022.07.14 12:44:34 INFO  Shut down connection with build server.
+2022.07.14 12:44:34 INFO  Shut down connection with build server.

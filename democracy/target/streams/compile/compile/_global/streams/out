@@ -1,0 +1,14 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: C:\Users\juanj\Desktop\democracy\src\main\scala\democracy\MajorityJudgement.scala:113:91 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m113 |[0m      [33mval[0m [36mbestMedianGrade[0m: [35mGrade[0m =gradesPerCandidate.values.filter(_.nonEmpty).map([36mgrades[0m=>median(grades)).maxBy(_.ordinal)[0m
+[0m[[0m[31merror[0m] [0m[0m    |                                                                                           [31m^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |                                                     Not found: median[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: C:\Users\juanj\Desktop\democracy\src\main\scala\democracy\MajorityJudgement.scala:113:115 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m113 |[0m      [33mval[0m [36mbestMedianGrade[0m: [35mGrade[0m =gradesPerCandidate.values.filter(_.nonEmpty).map([36mgrades[0m=>median(grades)).maxBy(_.ordinal)[0m
+[0m[[0m[31merror[0m] [0m[0m    |                                                                                                                 [31m^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |                              value ordinal is not a member of Nothing[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- Error: C:\Users\juanj\Desktop\democracy\src\main\scala\democracy\MajorityJudgement.scala:113:123 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m113 |[0m      [33mval[0m [36mbestMedianGrade[0m: [35mGrade[0m =gradesPerCandidate.values.filter(_.nonEmpty).map([36mgrades[0m=>median(grades)).maxBy(_.ordinal)[0m
+[0m[[0m[31merror[0m] [0m[0m    |                                                                                                                           [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |ambiguous implicit arguments: both [33mobject[0m [35mBoolean[0m in [33mobject[0m [35mOrdering[0m and [33mobject[0m [35mShort[0m in [33mobject[0m [35mOrdering[0m match type Ordering[B] of parameter cmp of [33mmethod[0m [35mmaxBy[0m in [33mtrait[0m [35mIterableOnceOps[0m[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

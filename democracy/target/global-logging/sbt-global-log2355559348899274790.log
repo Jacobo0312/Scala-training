@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(3666659d-de58-4256-a73b-d9bf6401561e), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\juanj\Desktop\democracy\target\scala-3.1.0\classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- Error: C:\Users\juanj\Desktop\democracy\src\main\scala\democracy\MajorityJudgement.scala:35:20 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m35 |[0m    sortGrades.apply()((sortGrades.size/[31m2[0m)) [0m
+[0m[[0m[31merror[0m] [0m[0m   |    [31m^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |missing argument for parameter i of [33mmethod[0m [35mapply[0m in [33mtrait[0m [35mSeqOps[0m: (i: Int): democracy.Grade[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 1 s, completed 14/07/2022, 12:46:20 p. m.[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
